@@ -1,4 +1,4 @@
-package com.xorkz.mail.controller;
+package com.xworkz.mail.controller;
 
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -6,7 +6,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.xorkz.mail.service.MailService;
+import com.xworkz.mail.service.MailService;
 
 @Controller
 public class MainController {
